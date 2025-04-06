@@ -1,2 +1,2 @@
-email :
-gitID :
+email : 2qqqaa@naver.com
+gitID : minjeongkx
